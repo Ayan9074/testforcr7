@@ -1,0 +1,1195 @@
+1621599795469	geckodriver	INFO	Listening on 127.0.0.1:50282
+1621599798588	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofileh8ls4F"
+1621599799490	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621599802912	Marionette	INFO	Listening on port 50290
+1621599930705	Marionette	INFO	Stopped listening on port 50290
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofileaKwnWe"
+1621599806400	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621599809997	Marionette	INFO	Listening on port 50320
+1621599810287	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1621599820011	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1621599872764	Marionette	INFO	Stopped listening on port 50320
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621600246369	geckodriver	INFO	Listening on 127.0.0.1:50637
+1621600249485	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofile8NF4tb"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621600253587	Marionette	INFO	Listening on port 50646
+1621600253626	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 196}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 196}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1621600302805	Marionette	INFO	Stopped listening on port 50646
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621600573066	geckodriver	INFO	Listening on 127.0.0.1:50987
+1621600576147	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofilebl9m9r"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621600580276	Marionette	INFO	Listening on port 50997
+1621600580371	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621600606831	Marionette	INFO	Stopped listening on port 50997
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621600884282	geckodriver	INFO	Listening on 127.0.0.1:51441
+1621600887372	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofileI8vL6f"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621600891295	Marionette	INFO	Listening on port 51450
+1621600891502	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621600930664	Marionette	INFO	Stopped listening on port 51450
+JavaScript error: https://www.youtube.com/s/desktop/0acb592a/jsbin/scheduler.vflset/scheduler.js, line 36: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.youtube.com/s/desktop/0acb592a/jsbin/scheduler.vflset/scheduler.js, line 36: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.youtube.com/s/desktop/0acb592a/jsbin/scheduler.vflset/scheduler.js, line 36: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.youtube.com/s/desktop/0acb592a/jsbin/scheduler.vflset/scheduler.js, line 36: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.youtube.com/s/desktop/0acb592a/jsbin/scheduler.vflset/scheduler.js, line 36: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.youtube.com/s/desktop/0acb592a/jsbin/scheduler.vflset/scheduler.js, line 36: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.youtube.com/s/desktop/0acb592a/jsbin/scheduler.vflset/scheduler.js, line 36: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.youtube.com/s/desktop/0acb592a/jsbin/scheduler.vflset/scheduler.js, line 36: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621675812175	geckodriver	INFO	Listening on 127.0.0.1:31542
+1621675815215	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofile3n1ceA"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621675821131	Marionette	INFO	Listening on port 31554
+1621675821457	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621675886518	Marionette	INFO	Stopped listening on port 31554
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621676977835	geckodriver	INFO	Listening on 127.0.0.1:32961
+1621676980875	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofileiLozhs"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621676983966	Marionette	INFO	Listening on port 32972
+1621676983992	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621677018850	Marionette	INFO	Stopped listening on port 32972
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621677518400	geckodriver	INFO	Listening on 127.0.0.1:33877
+1621677521454	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofileKsKTxW"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621677525185	Marionette	INFO	Listening on port 33889
+1621677525581	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621677566881	Marionette	INFO	Stopped listening on port 33889
+[Child 16052, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621679248543	geckodriver	INFO	Listening on 127.0.0.1:38189
+1621679251561	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofileu8AYeJ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621679255039	Marionette	INFO	Listening on port 38202
+1621679255174	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621679288665	Marionette	INFO	Stopped listening on port 38202
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621679546729	geckodriver	INFO	Listening on 127.0.0.1:38624
+1621679549742	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofileGOJphV"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621679552495	Marionette	INFO	Listening on port 38636
+1621679552858	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621679583183	Marionette	INFO	Stopped listening on port 38636
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621680800365	geckodriver	INFO	Listening on 127.0.0.1:40050
+1621680803389	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofilepfZufy"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621680809710	Marionette	INFO	Listening on port 40060
+1621680809728	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621680856756	Marionette	INFO	Stopped listening on port 40060
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621682316356	geckodriver	INFO	Listening on 127.0.0.1:41963
+1621682319390	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofilerYuV2v"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621682323841	Marionette	INFO	Listening on port 41975
+1621682324109	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621682360559	Marionette	INFO	Stopped listening on port 41975
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621683129335	geckodriver	INFO	Listening on 127.0.0.1:42944
+1621683132397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofilebIr6kn"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621683136060	Marionette	INFO	Listening on port 42955
+1621683136519	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621683169944	Marionette	INFO	Stopped listening on port 42955
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x840001,name=PRemoteSpellcheckEngine::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621685528139	geckodriver	INFO	Listening on 127.0.0.1:45350
+1621685531174	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofileCRyYop"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621685536056	Marionette	INFO	Listening on port 45374
+1621685536552	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621685577513	Marionette	INFO	Stopped listening on port 45374
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621688295000	geckodriver	INFO	Listening on 127.0.0.1:47498
+1621688298023	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofileabTLLX"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621688300742	Marionette	INFO	Listening on port 47506
+1621688301157	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621688332610	Marionette	INFO	Stopped listening on port 47506
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621689552181	geckodriver	INFO	Listening on 127.0.0.1:47897
+1621689555232	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofileOqYdRl"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621689557762	Marionette	INFO	Listening on port 47906
+1621689557848	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621689589023	Marionette	INFO	Stopped listening on port 47906
+JavaScript error: https://www.youtube.com/s/desktop/df22805b/jsbin/scheduler.vflset/scheduler.js, line 36: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.youtube.com/s/desktop/df22805b/jsbin/scheduler.vflset/scheduler.js, line 36: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.youtube.com/s/desktop/df22805b/jsbin/scheduler.vflset/scheduler.js, line 36: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.youtube.com/s/desktop/df22805b/jsbin/scheduler.vflset/scheduler.js, line 36: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.youtube.com/s/desktop/df22805b/jsbin/scheduler.vflset/scheduler.js, line 36: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621691950982	geckodriver	INFO	Listening on 127.0.0.1:48594
+1621691954020	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofileXUOrwM"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621691956604	Marionette	INFO	Listening on port 48602
+1621691956636	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621691988060	Marionette	INFO	Stopped listening on port 48602
+JavaScript error: https://www.youtube.com/s/desktop/df22805b/jsbin/scheduler.vflset/scheduler.js, line 36: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.youtube.com/s/desktop/df22805b/jsbin/scheduler.vflset/scheduler.js, line 36: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.youtube.com/s/desktop/df22805b/jsbin/scheduler.vflset/scheduler.js, line 36: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.youtube.com/s/desktop/df22805b/jsbin/scheduler.vflset/scheduler.js, line 36: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.youtube.com/s/desktop/df22805b/jsbin/scheduler.vflset/scheduler.js, line 36: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.youtube.com/s/desktop/df22805b/jsbin/scheduler.vflset/scheduler.js, line 36: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.youtube.com/s/desktop/df22805b/jsbin/scheduler.vflset/scheduler.js, line 36: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621694341376	geckodriver	INFO	Listening on 127.0.0.1:49321
+1621694344414	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofilegHAHtV"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621694346965	Marionette	INFO	Listening on port 49329
+1621694347049	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621694377042	Marionette	INFO	Stopped listening on port 49329
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621694691659	geckodriver	INFO	Listening on 127.0.0.1:49431
+1621694694679	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofilepLzISu"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621694697127	Marionette	INFO	Listening on port 49439
+1621694697297	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621694726674	Marionette	INFO	Stopped listening on port 49439
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621696704223	geckodriver	INFO	Listening on 127.0.0.1:49777
+1621696707236	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofilehOSqPT"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621696709893	Marionette	INFO	Listening on port 49786
+1621696710364	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621696740272	Marionette	INFO	Stopped listening on port 49786
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621697901472	geckodriver	INFO	Listening on 127.0.0.1:50192
+1621697904526	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofileRrObaN"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621697910222	Marionette	INFO	Listening on port 50200
+1621697910251	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621697939763	Marionette	INFO	Stopped listening on port 50200
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621698559683	geckodriver	INFO	Listening on 127.0.0.1:50622
+1621698562720	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofileIoyd5b"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621698566505	Marionette	INFO	Listening on port 50631
+1621698566867	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621698595910	Marionette	INFO	Stopped listening on port 50631
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621700590242	geckodriver	INFO	Listening on 127.0.0.1:51290
+1621700593295	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofile0s2fT7"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621700597264	Marionette	INFO	Listening on port 51300
+1621700597414	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621700627074	Marionette	INFO	Stopped listening on port 51300
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621700953770	geckodriver	INFO	Listening on 127.0.0.1:52255
+1621700956811	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofilesMwppb"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621700960770	Marionette	INFO	Listening on port 52263
+1621700960932	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621700987781	Marionette	INFO	Stopped listening on port 52263
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621749222348	geckodriver	INFO	Listening on 127.0.0.1:54864
+1621749225415	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofile5SYb73"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621749228979	Marionette	INFO	Listening on port 54873
+1621749229057	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621749260863	Marionette	INFO	Stopped listening on port 54873
+JavaScript error: https://www.youtube.com/s/desktop/df22805b/jsbin/scheduler.vflset/scheduler.js, line 36: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.youtube.com/s/desktop/df22805b/jsbin/scheduler.vflset/scheduler.js, line 36: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.youtube.com/s/desktop/df22805b/jsbin/scheduler.vflset/scheduler.js, line 36: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.youtube.com/s/desktop/df22805b/jsbin/scheduler.vflset/scheduler.js, line 36: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.youtube.com/s/desktop/df22805b/jsbin/scheduler.vflset/scheduler.js, line 36: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621749519914	geckodriver	INFO	Listening on 127.0.0.1:55084
+1621749522938	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofileZPBWmx"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621749525371	Marionette	INFO	Listening on port 55092
+1621749525554	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+[Child 2488, MediaDecoderStateMachine #1] WARNING: Decoder=1e2e17a9400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 2488, MediaDecoderStateMachine #1] WARNING: Decoder=1e2e17a9400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3370
+1621749556808	Marionette	INFO	Stopped listening on port 55092
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621751256302	geckodriver	INFO	Listening on 127.0.0.1:55845
+1621751259353	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofileHXrM6s"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621751262290	Marionette	INFO	Listening on port 55854
+1621751262467	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621751294143	Marionette	INFO	Stopped listening on port 55854
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3800B3,name=PContent::Msg_StartVisitedQueries) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621752158588	geckodriver	INFO	Listening on 127.0.0.1:56538
+1621752161604	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofileoj6eiZ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621752164429	Marionette	INFO	Listening on port 56553
+1621752164735	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621752200103	Marionette	INFO	Stopped listening on port 56553
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621756063751	geckodriver	INFO	Listening on 127.0.0.1:58640
+1621756066796	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofileYR6XDq"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621756070117	Marionette	INFO	Listening on port 58650
+1621756070410	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621756105069	Marionette	INFO	Stopped listening on port 58650
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621756607940	geckodriver	INFO	Listening on 127.0.0.1:59066
+1621756610980	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofile0rcHRz"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621756614472	Marionette	INFO	Listening on port 59075
+1621756614604	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621756652820	Marionette	INFO	Stopped listening on port 59075
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621758778431	geckodriver	INFO	Listening on 127.0.0.1:60105
+1621758781518	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofileLaWsar"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621758784888	Marionette	INFO	Listening on port 60115
+1621758785130	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621758816213	Marionette	INFO	Stopped listening on port 60115
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621758898729	geckodriver	INFO	Listening on 127.0.0.1:60248
+1621758901741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofilehfzPJ5"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621758904241	Marionette	INFO	Listening on port 60257
+1621758904367	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621758934325	Marionette	INFO	Stopped listening on port 60257
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621761838105	geckodriver	INFO	Listening on 127.0.0.1:61397
+1621761841129	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofilePKTCjw"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621761844400	Marionette	INFO	Listening on port 61406
+1621761844748	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621761880028	Marionette	INFO	Stopped listening on port 61406
+[Child 14220, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621763940695	geckodriver	INFO	Listening on 127.0.0.1:62316
+1621763943718	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofilemQuCzU"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621763947217	Marionette	INFO	Listening on port 62324
+1621763947338	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.youtube.com/s/player/c39bcc11/player_ias.vflset/en_US/base.js, line 784: uncaught exception: [object Object]
+[Child 14500, MediaDecoderStateMachine #1] WARNING: Decoder=1d0881d6800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3370
+1621763981728	Marionette	INFO	Stopped listening on port 62324
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621765568117	geckodriver	INFO	Listening on 127.0.0.1:63476
+1621765571162	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofile5G6rY4"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621765575338	Marionette	INFO	Listening on port 63502
+1621765575381	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621765608759	Marionette	INFO	Stopped listening on port 63502
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621766655294	geckodriver	INFO	Listening on 127.0.0.1:64636
+1621766658333	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofilezsoBty"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621766661358	Marionette	INFO	Listening on port 64645
+1621766661448	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621766694900	Marionette	INFO	Stopped listening on port 64645
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621768515701	geckodriver	INFO	Listening on 127.0.0.1:4356
+1621768518730	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofileXmP9Tt"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621768521588	Marionette	INFO	Listening on port 4367
+1621768521861	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+[Child 5928, MediaDecoderStateMachine #1] WARNING: Decoder=21037830c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3370
+1621768541027	Marionette	INFO	Stopped listening on port 4367
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621769612943	geckodriver	INFO	Listening on 127.0.0.1:10580
+1621769615983	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofileIZcyz8"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621769618637	Marionette	INFO	Listening on port 10588
+1621769619098	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+[Child 10112, MediaDecoderStateMachine #1] WARNING: Decoder=1d2d30cc400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3370
+[Child 10112, MediaDecoderStateMachine #1] WARNING: Decoder=1d2d30cc400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3370
+1621769652425	Marionette	INFO	Stopped listening on port 10588
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: https://www.youtube.com/s/desktop/df22805b/jsbin/scheduler.vflset/scheduler.js, line 36: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.youtube.com/s/desktop/df22805b/jsbin/scheduler.vflset/scheduler.js, line 36: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.youtube.com/s/desktop/df22805b/jsbin/scheduler.vflset/scheduler.js, line 36: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.youtube.com/s/desktop/df22805b/jsbin/scheduler.vflset/scheduler.js, line 36: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.youtube.com/s/desktop/df22805b/jsbin/scheduler.vflset/scheduler.js, line 36: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.youtube.com/s/desktop/df22805b/jsbin/scheduler.vflset/scheduler.js, line 36: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.youtube.com/s/desktop/df22805b/jsbin/scheduler.vflset/scheduler.js, line 36: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.youtube.com/s/desktop/df22805b/jsbin/scheduler.vflset/scheduler.js, line 36: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621770824650	geckodriver	INFO	Listening on 127.0.0.1:11425
+1621770827739	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofileW9vptc"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621770833196	Marionette	INFO	Listening on port 11434
+1621770833479	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621770868534	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1621770895057	Marionette	INFO	Stopped listening on port 11434
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621777184249	geckodriver	INFO	Listening on 127.0.0.1:15441
+1621777187279	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofile6zUz5Y"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621777190416	Marionette	INFO	Listening on port 15465
+1621777190907	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621777216313	Marionette	INFO	Stopped listening on port 15465
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621778453735	geckodriver	INFO	Listening on 127.0.0.1:17217
+1621778456760	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofileQ1wyQf"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621778460665	Marionette	INFO	Listening on port 17227
+1621778460898	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621778485930	Marionette	INFO	Stopped listening on port 17227
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621782052324	geckodriver	INFO	Listening on 127.0.0.1:18925
+1621782055385	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofilek2VZKm"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621782057853	Marionette	INFO	Listening on port 18934
+1621782058000	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621782084343	Marionette	INFO	Stopped listening on port 18934
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621785679387	geckodriver	INFO	Listening on 127.0.0.1:21363
+1621785682445	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofileW8E9sg"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621785684915	Marionette	INFO	Listening on port 21373
+1621785685069	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621785708078	Marionette	INFO	Stopped listening on port 21373
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621789255150	geckodriver	INFO	Listening on 127.0.0.1:23563
+1621789258270	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofileAghv1c"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621789265593	Marionette	INFO	Listening on port 23571
+1621789265621	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+[Child 24212, MediaDecoderStateMachine #1] WARNING: Decoder=1b161934400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3370
+JavaScript error: https://www.youtube.com/s/player/c39bcc11/www-embed-player.vflset/www-embed-player.js, line 1030: TypeError: this.api.isExternalMethodAvailable is not a function
+1621789307518	Marionette	INFO	Stopped listening on port 23571
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621792859557	geckodriver	INFO	Listening on 127.0.0.1:29361
+1621792862614	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofilegRxR8G"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621792865201	Marionette	INFO	Listening on port 29369
+1621792865231	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621792888479	Marionette	INFO	Stopped listening on port 29369
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621796450899	geckodriver	INFO	Listening on 127.0.0.1:31033
+1621796453952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofileZlQpsb"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621796456620	Marionette	INFO	Listening on port 31041
+1621796457073	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.youtube.com/s/player/c39bcc11/player_ias.vflset/en_US/base.js, line 784: uncaught exception: [object Object]
+1621796481496	Marionette	INFO	Stopped listening on port 31041
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621800043164	geckodriver	INFO	Listening on 127.0.0.1:32695
+1621800046206	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofilezLTwJH"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621800049089	Marionette	INFO	Listening on port 32705
+1621800049318	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621800073598	Marionette	INFO	Stopped listening on port 32705
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621803635501	geckodriver	INFO	Listening on 127.0.0.1:34366
+1621803638560	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofileqgncfX"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621803641049	Marionette	INFO	Listening on port 34374
+1621803641170	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621803664529	Marionette	INFO	Stopped listening on port 34374
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621807227954	geckodriver	INFO	Listening on 127.0.0.1:36026
+1621807230977	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofileEJ8ZTz"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621807233450	Marionette	INFO	Listening on port 36036
+1621807233586	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621807257429	Marionette	INFO	Stopped listening on port 36036
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621810881397	geckodriver	INFO	Listening on 127.0.0.1:37712
+1621810884430	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofileER4gN6"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621810887095	Marionette	INFO	Listening on port 37720
+1621810887541	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621810911842	Marionette	INFO	Stopped listening on port 37720
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621814475147	geckodriver	INFO	Listening on 127.0.0.1:39397
+1621814478159	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofilepLU1Sf"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621814480884	Marionette	INFO	Listening on port 39407
+1621814481274	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621814505046	Marionette	INFO	Stopped listening on port 39407
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621818069679	geckodriver	INFO	Listening on 127.0.0.1:41061
+1621818072712	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofileWxn1s7"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621818075320	Marionette	INFO	Listening on port 41071
+1621818075330	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621818100337	Marionette	INFO	Stopped listening on port 41071
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621821647314	geckodriver	INFO	Listening on 127.0.0.1:42319
+1621821650380	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofilecZ6471"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621821653888	Marionette	INFO	Listening on port 42327
+1621821654000	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621821676921	Marionette	INFO	Stopped listening on port 42327
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621825240408	geckodriver	INFO	Listening on 127.0.0.1:43987
+1621825243466	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofileA4pCzz"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621825246170	Marionette	INFO	Listening on port 43998
+1621825246581	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621825268846	Marionette	INFO	Stopped listening on port 43998
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621828832670	geckodriver	INFO	Listening on 127.0.0.1:46155
+1621828835703	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofileH90ibe"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621828839369	Marionette	INFO	Listening on port 46165
+1621828839825	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621828866034	Marionette	INFO	Stopped listening on port 46165
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621832432005	geckodriver	INFO	Listening on 127.0.0.1:48321
+1621832435031	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofileQk8Dom"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621832438719	Marionette	INFO	Listening on port 48331
+1621832439147	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621832466390	Marionette	INFO	Stopped listening on port 48331
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621836031898	geckodriver	INFO	Listening on 127.0.0.1:50766
+1621836034913	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofiletRtoJe"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621836037542	Marionette	INFO	Listening on port 50777
+1621836038031	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621836071309	Marionette	INFO	Stopped listening on port 50777
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621839633209	geckodriver	INFO	Listening on 127.0.0.1:53415
+1621839636239	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofileIqLeK6"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621839640188	Marionette	INFO	Listening on port 53424
+1621839640357	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: , line 0: uncaught exception: Skipping for logged out.
+1621839673098	Marionette	INFO	Stopped listening on port 53424
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621843237112	geckodriver	INFO	Listening on 127.0.0.1:55161
+1621843240144	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofilemEod3O"
+1621843242694	Marionette	INFO	Listening on port 55170
+1621843242763	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://www.google.com/js/th/eZ5z5r_oiTFs9Ahr5t33Ck_HJbJMtQ7dqOWD8_qGzLg.js line 1 > eval line 728 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL is currently disabled.
+1621843278745	Marionette	INFO	Stopped listening on port 55170
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Child 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+3540, Chrome_
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ChildThr
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ead] WARNING: pipe error: 2
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+32: file /build
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+s/worker/checkouts/ge
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+cko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, lin
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+e 522
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621846841018	geckodriver	INFO	Listening on 127.0.0.1:56685
+1621846844064	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofile475eHO"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621846846775	Marionette	INFO	Listening on port 56694
+1621846847180	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621846878674	Marionette	INFO	Stopped listening on port 56694
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621850444112	geckodriver	INFO	Listening on 127.0.0.1:59049
+1621850447134	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofilekAiGP9"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621850450136	Marionette	INFO	Listening on port 59061
+1621850450261	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621850484033	Marionette	INFO	Stopped listening on port 59061
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3800B3,name=PContent::Msg_StartVisitedQueries) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1621854051725	geckodriver	INFO	Listening on 127.0.0.1:63363
+1621854054783	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--homepage \"data:,\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayan\\AppData\\Local\\Temp\\rust_mozprofileAp5nIY"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1621854057670	Marionette	INFO	Listening on port 63373
+1621854057895	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1621854094218	Marionette	INFO	Stopped listening on port 63373
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
